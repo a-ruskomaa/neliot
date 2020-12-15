@@ -1,6 +1,6 @@
 # neliot
 
-Harjoitustyönä toteutettu yksinkertainen assembly-ohjelma, joka piirtää HDL-kielellä rakennetun virtuaalisen tietokoneen ruudulle neliöitä.
+Harjoitustyönä toteutettu yksinkertainen assembly-ohjelma, joka piirtää HDL-kielellä rakennetun virtuaalisen tietokoneen näytölle painettua numeronäppäintä vastaavan määrän neliöitä.
 
 Ohjelma kuuntelee numeronäppäinten painalluksia ja piirtää painettua numeroa vastaavan määrän neliöitä ruudulle.
 
